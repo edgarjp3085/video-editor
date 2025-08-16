@@ -39,7 +39,7 @@ Uma interface gráfica moderna e intuitiva para editar vídeos automaticamente p
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/editor-video-kwai.git
+git clone https://github.com/SEU_USUARIO/video-editor.git
 cd editor-video-kwai
 ```
 
