@@ -190,7 +190,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/SEU_USUARIO/editor-video-kwai/issues)
 - 💬 **Discussões**: [GitHub Discussions](https://github.com/SEU_USUARIO/editor-video-kwai/discussions)
-- 📧 **Email**: seu.email@exemplo.com
+- 📧 **Email**: edgar.solin@gmail.com
 
 ---
 
