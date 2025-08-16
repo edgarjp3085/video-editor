@@ -17,14 +17,6 @@ Uma interface gráfica moderna e intuitiva para editar vídeos automaticamente p
 - 💾 **Configurações salvas automaticamente**
 - 📊 **Monitoramento em tempo real** do progresso
 
-## 🖼️ Screenshots
-
-### Interface Principal
-```
-<img width="837" height="638" alt="image" src="https://github.com/user-attachments/assets/65ddc236-447f-4e18-988f-fd5615686ba6" />
-
-```
-
 ## 🚀 Instalação Rápida
 
 ### 1. Clone o repositório
