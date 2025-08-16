@@ -40,7 +40,6 @@ Uma interface gráfica moderna e intuitiva para editar vídeos automaticamente p
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/SEU_USUARIO/video-editor.git
-cd editor-video-kwai
 ```
 
 ### 2. Instale as dependências
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 
 ### 4. Execute o programa
 ```bash
-python video_editor_gui.py
+python make.py
 ```
 
 ## 📋 Requisitos
