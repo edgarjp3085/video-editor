@@ -1,0 +1,23 @@
+# Editor de Vídeo Kwai - Requirements
+# Interface gráfica para edição de vídeos com IA
+
+# Core dependencies - Essenciais
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# AI and Speech Processing - IA e Processamento de Áudio
+google-generativeai>=0.3.0
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+
+# Audio/Video processing - Processamento de áudio/vídeo
+# Nota: FFmpeg deve ser instalado separadamente no sistema
+
+# System utilities - Utilitários do sistema
+pathlib2>=2.3.7; python_version < "3.4"
+
+# Optional dependencies - Dependências opcionais
+# pyaudio>=0.2.11  # Descomente se precisar de microfone
+# moviepy>=1.0.3   # Alternativa para processamento de vídeo
