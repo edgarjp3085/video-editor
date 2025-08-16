@@ -176,10 +176,6 @@ choco install ffmpeg  # Chocolatey
 - 💾 Configurações persistentes
 - 📊 Monitoramento de progresso
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 🙏 Agradecimentos
 
 - Google Gemini AI pela geração de títulos
